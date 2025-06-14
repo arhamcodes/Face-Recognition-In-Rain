@@ -1,0 +1,10 @@
+2025-05-06 02:26:32,245 - INFO - Starting application...
+2025-05-06 02:26:32,247 - INFO - Working directory: C:\Users\arham\Desktop\FYP
+2025-05-06 02:26:32,247 - INFO - Checking for existing processes...
+2025-05-06 02:26:32,568 - INFO - Starting backend server...
+2025-05-06 02:26:32,568 - ERROR - Critical error occurred
+Traceback (most recent call last):
+  File "launcher.py", line 184, in main
+    startupinfo.wShowWindow = subprocess.SW_SHOW
+                              ^^^^^^^^^^^^^^^^^^
+AttributeError: module 'subprocess' has no attribute 'SW_SHOW'

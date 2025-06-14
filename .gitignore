@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.7z
+synthetic-rain
+data/processed_images/*.png
+data/frames
+backlog/
+model/*.pt
+
+# Virtual environments
+.venv

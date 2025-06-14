@@ -1,0 +1,25 @@
+[project]
+name = "FYP"
+version = "0.1.0"
+description = "IMPROVING FACE RECOGNITION UNDER RAINY CONDITIONS USING ADVANCED COMPUTER VISION TECHNIQUES"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "customtkinter>=5.2.2",
+    "facenet-pytorch>=2.5.3",
+    "fastapi>=0.115.12",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "opencv-python>=4.11.0.86",
+    "passlib>=1.7.4",
+    "pillow>=11.1.0",
+    "psutil>=7.0.0",
+    "pyinstaller>=6.13.0",
+    "python-multipart>=0.0.20",
+    "qdrant-client>=1.14.2",
+    "requests>=2.32.3",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
+    "tqdm>=4.67.1",
+    "uvicorn>=0.34.1",
+]
