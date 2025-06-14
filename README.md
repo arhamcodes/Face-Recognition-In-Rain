@@ -10,7 +10,7 @@ This project is a face recognition system with rain removal capabilities that us
 - Python 3.8+ installed on both main system and Raspberry Pi
 - Raspberry Pi 5 with camera module
 - Network connectivity between Pi and main system
-- Generator and Face Recognition models can be downloaded from the drive folder (https://drive.google.com/drive/folders/16XAeap0ioKyXb1oItKE83y9ugTFxd5eV?usp=sharing)
+- Generator and Face Recognition models can be downloaded from the drive folder and add to the "model" folder (https://drive.google.com/drive/folders/16XAeap0ioKyXb1oItKE83y9ugTFxd5eV?usp=sharing)
 
 ## System Architecture
 
