@@ -4,6 +4,8 @@ This project is a face recognition system with rain removal capabilities that us
 
 ![Dataset](dataset.png)
 
+![Demo Preview](demo.gif)
+
 ## Prerequisites
 
 - Docker installed on the main system
